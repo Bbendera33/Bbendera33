@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Brian ​✨​<br><br>🧠​ CyberSecurity graduate <br>​🌌​ I'm learning python with a focus in cloud security<br><br>Tech Stack<br><br>Python,R,Bash Script,SQLite,MySQL
+Hi, I'm Brian ​✨​<br><br>🧠​ CyberSecurity graduate <br>​🌌​ building with python with a focus in cloud security<br><br>Tech Stack<br><br>Python,R,Bash Script,SQLite,MySQL
 
 
 ## 🌐 Socials:
